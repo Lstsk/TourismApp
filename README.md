@@ -47,7 +47,3 @@ This project is licensed under the [Your License Name] - see the [LICENSE](link_
 ## Contact Information
 
 For any inquiries, reach out to me at carslin3@gmail.com.
-
----
-
-Feel free to customize the template by adding or removing sections based on your project's specific needs. This README provides a foundation for conveying important information about your Tourism App to potential users and contributors.
