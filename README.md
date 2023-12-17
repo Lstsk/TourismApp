@@ -1,7 +1,5 @@
 # Northern Marianas Islands Tourism App
 
-![App Logo](link_to_your_logo.png)
-
 ## Overview
 
 The Northern Marianas Islands Tourism App is a cross-platform mobile application developed using Flutter. This app is designed to provide tourists and visitors with a seamless and informative experience while exploring the beautiful Northern Marianas Islands.
@@ -18,7 +16,6 @@ The Northern Marianas Islands Tourism App is a cross-platform mobile application
 
 - Flutter
 - Dart
-- [Any additional libraries or APIs you've used]
 
 ## Installation
 
@@ -34,11 +31,6 @@ To run the app locally, follow these steps:
 1. Launch the app on your device or emulator.
 2. Explore the different features using the intuitive user interface.
 
-![App Screenshots](link_to_screenshot.png)
-
-## Getting Started for Developers
-
-To contribute to this project, follow the guidelines outlined in [CONTRIBUTING.md](link_to_contributing_file).
 
 ## Roadmap
 
@@ -52,16 +44,9 @@ Our future plans for the app include:
 
 This project is licensed under the [Your License Name] - see the [LICENSE](link_to_license_file) file for details.
 
-## Acknowledgments
-
-We would like to thank the following:
-
-- [Any third-party libraries, tools, or resources you used]
-- [Any specific individuals or organizations you want to acknowledge]
-
 ## Contact Information
 
-For any inquiries, reach out to [Your Name] at [your_email@example.com].
+For any inquiries, reach out to me at carslin3@gmail.com.
 
 ---
 
